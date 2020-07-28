@@ -3,6 +3,8 @@
 - michael.reichart@gfu.net
 - Auf Xing und LinkedIn unter Michael Reichart
 
+_Seminar 2020-07-27 und 2020-07-28_
+
 ## Foliensatz
 Es gibt mehrere Foliensätze zu unserem Seminar und Workshop im Verzeichnis `docs`: **ECMAScript 6+.pdf** (wip-Version), **Javascript kompakt.pdf**, **Javascript Pattern.pdf**. Dort finden Sie zum Nachlesen, was während Seminars erläutert wird plus viel Zusatzmaterial. Der Foliensatz wird ggf. aktualisiert, wenn wir bis zum Ende Seminars Inhalte umstellen. Er steht Ihnen anschließend unter der MIT Lizenz zur freien Verfügung.
 
